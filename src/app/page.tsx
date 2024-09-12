@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   const fname = "Iqbal";
   const fullname = fname;
-  const fullname1 = fname;
+  const fullname1222 = fname;
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
@@ -23,7 +23,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>{fname} {fullname} {fullname1}</li>
+          <li>{fname} {fullname} {fullname1222}</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
