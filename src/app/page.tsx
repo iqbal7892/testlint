@@ -22,7 +22,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>{fname} {fullname}</li>
+          <li>{fname}</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
